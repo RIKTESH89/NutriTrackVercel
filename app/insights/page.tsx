@@ -323,7 +323,7 @@ export default function InsightsPage() {
         <AnimatedCard delay={300}>
           <div className="p-6">
             <div className="flex items-center justify-between mb-4">
-              <h2 className="text-lg font-semibold">Weekly Trends</h2>
+              <h2 className="text-lg font-semibold">Trends</h2>
               <Button variant="ghost" size="sm" className="h-8">
                 <BarChart3 className="h-4 w-4 mr-1" />
                 View Chart
